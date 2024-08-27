@@ -1,6 +1,6 @@
 # Image Denoising Script
 
-This Python script performs image denoising on large TIFF images using a pre-trained TensorFlow model from N2N denoising. It splits the input image into smaller patches, processes each patch using the model, and then stitches the denoised patches back together to produce a final output image.
+This Python script performs image denoising on large TIFF images using a pre-trained TensorFlow model from [Noise2Noise denoising](https://github.com/ND-HowardGroup/Instant-Image-Denoising). It splits the input image into smaller patches, processes each patch using the model, and then stitches the denoised patches back together to produce a final output image.
 
 ## Table of Contents
 
