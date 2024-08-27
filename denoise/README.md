@@ -6,11 +6,8 @@ This Python script performs image denoising on large TIFF images using a pre-tra
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
